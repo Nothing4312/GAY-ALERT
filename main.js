@@ -1,0 +1,1 @@
+alert("⚠ANOMALI INI SANGAT BERBAHAYA!⚠");
